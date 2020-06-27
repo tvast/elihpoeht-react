@@ -18,7 +18,7 @@ class Menu extends Component {
 
             <Router><nav className="navbar navbar-expand-lg  text-uppercase fixed-top" id="mainNav">
                 <div className="container">
-                    <a className="navbar-brand js-scroll-trigger" href="#page-top">Elihpoeht</a>
+                    <a className="navbar-brand js-scroll-trigger glitchy" href="#page-top">Elihpoeht</a>
                     <button className="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         Menu
                     <i className="fas fa-bars"></i>
@@ -46,7 +46,7 @@ class Menu extends Component {
                 {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
                 <Switch>
-                    <Route path="/new">
+                    <Route path="/news">
                         <About />
                     </Route>
                     <Route path="/services">
