@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elihpoeht-react/static/css/main.06b5644c.chunk.css",
+    "main.js": "/elihpoeht-react/static/js/main.d4d61b63.chunk.js",
+    "main.js.map": "/elihpoeht-react/static/js/main.d4d61b63.chunk.js.map",
+    "runtime-main.js": "/elihpoeht-react/static/js/runtime-main.3b1b0cdf.js",
+    "runtime-main.js.map": "/elihpoeht-react/static/js/runtime-main.3b1b0cdf.js.map",
+    "static/js/2.a98840af.chunk.js": "/elihpoeht-react/static/js/2.a98840af.chunk.js",
+    "static/js/2.a98840af.chunk.js.map": "/elihpoeht-react/static/js/2.a98840af.chunk.js.map",
+    "index.html": "/elihpoeht-react/index.html",
+    "precache-manifest.65ae840f03b076d2e866b99f39b0ffb3.js": "/elihpoeht-react/precache-manifest.65ae840f03b076d2e866b99f39b0ffb3.js",
+    "service-worker.js": "/elihpoeht-react/service-worker.js",
+    "static/css/main.06b5644c.chunk.css.map": "/elihpoeht-react/static/css/main.06b5644c.chunk.css.map",
+    "static/js/2.a98840af.chunk.js.LICENSE.txt": "/elihpoeht-react/static/js/2.a98840af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1b0cdf.js",
+    "static/js/2.a98840af.chunk.js",
+    "static/css/main.06b5644c.chunk.css",
+    "static/js/main.d4d61b63.chunk.js"
+  ]
+}
