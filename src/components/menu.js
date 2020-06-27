@@ -28,9 +28,9 @@ class Menu extends Component {
                         <div>
                             <div>
                                 <ul className="navbar-nav ml-auto">
-                                    <li className="nav-item mx-0 mx-lg-1"><a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio"><Link to="/">Home</Link></a></li>
-                                    <li className="nav-item mx-0 mx-lg-1"><a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about"><Link to="/news">News</Link></a></li>
-                                    <li className="nav-item mx-0 mx-lg-1"><a className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact"><Link to="/moremusic">More music</Link></a></li>
+                                    <li className="nav-item mx-0 mx-lg-1"><Link to="/">Home</Link></li>
+                                    <li className="nav-item mx-0 mx-lg-1"><Link to="/news">News</Link></li>
+                                    <li className="nav-item mx-0 mx-lg-1"><Link to="/moremusic">More music</Link></li>
                                 </ul>
                             </div>
 

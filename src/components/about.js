@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-
-import ReactPlayer from "react-player"
 class About extends Component {
     render() {
         return (
